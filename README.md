@@ -60,16 +60,16 @@ To support diverse learning needs, the system dynamically adapts lesson difficul
 
 
 ### Main
-![[asssets/images/Main.png]]
+![Main](assets/images/Main.png)
 
 ### Category
-![[asssets/images/Category.png]]
+![Category](assets/images/Category.png)
 
 ### Math
-![[asssets/images/Math.png]]
+![Math](assets/images/Math.png)
 
 ### Grammar
-![[asssets/images/Grammar.png]]
+![Grammar](assets/images/Grammar.png)
 
-### Scores
-![[asssets/images/Scores.png]]
+### Performance Board
+![PerformanceBoard](assets/images/Scores.png)
