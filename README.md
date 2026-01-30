@@ -57,3 +57,19 @@ To support diverse learning needs, the system dynamically adapts lesson difficul
 | -------------------- | ----------------------------------------- |
 | Game Engine          | **GDevelop Event System**                 |
 | Backend Services     | **Firebase**                              |
+
+
+### Main
+![[asssets/images/Main.png]]
+
+### Category
+![[asssets/images/Category.png]]
+
+### Math
+![[asssets/images/Math.png]]
+
+### Grammar
+![[asssets/images/Grammar.png]]
+
+### Scores
+![[asssets/images/Scores.png]]
